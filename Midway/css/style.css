@@ -5279,3 +5279,27 @@ blockquote.style-one{
 .medical-list li{
 	list-style:disc;
 }
+
+.atty-logo {
+	background-image: url(/images/resource/dmfg-square.jpg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 350px;
+	height: 230px;
+	margin: auto;
+	padding-top: 56px;
+	visibility: visible;
+	animation-duration: 2000ms;
+	animation-delay: 600ms;
+	animation-name: zoomInStable;
+}
+.faq{
+	margin:5px 0px 2px;
+	background-color: #ffffff;
+	font-weight:bold;
+}
+.faq-ans{
+	margin-left:10px;
+	display:none;
+}
