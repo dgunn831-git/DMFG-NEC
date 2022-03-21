@@ -5299,6 +5299,10 @@ blockquote.style-one{
 	background-color: #ffffff;
 	font-weight:bold;
 }
+.faq-title {
+	font-size: 27px !important;
+	font-weight: 700 !important;
+}
 .faq-ans{
 	margin-left:10px;
 	display:none;
