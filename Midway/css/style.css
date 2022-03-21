@@ -5303,3 +5303,8 @@ blockquote.style-one{
 	margin-left:10px;
 	display:none;
 }
+.faq-border {
+	background-color: #4a4a4a;
+	height: 57px;
+	margin: 0px 0px 60px;
+}
